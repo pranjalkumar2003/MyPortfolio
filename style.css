@@ -503,6 +503,10 @@ animation:shakeEffectPlus 5s ease-in infinite;
   margin-left: 120px;
 }
 
+#project5{
+  background-image:url(./images/projects/Project5.png) ;
+}
+
 .skills-container{
   position: relative;
   display: flex;
@@ -847,7 +851,7 @@ footer{
         font-size: 18px;
       }
       
-      #project1,#project2,#project3,#project4{
+      #project1,#project2,#project3,#project4,#project5{
         margin-left: 16.5px;
       }
   
@@ -1038,7 +1042,7 @@ footer{
        gap: 3rem;
      }
 
-     #project1,#project2,#project3,#project4{
+     #project1,#project2,#project3,#project4,#project5{
        margin-left: 35px;
      }
 
